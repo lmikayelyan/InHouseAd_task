@@ -17,7 +17,7 @@
 ## How to use
 >
 > - ```git clone git@github.com:lmikayelyan/InHouseAd.git```
-> - ```cd InHouseAd
+> - ```cd InHouseAd_task```
 > - ```docker-compose up --build<code>```
 >
 ### Swagger
